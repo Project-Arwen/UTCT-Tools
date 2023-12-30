@@ -1,0 +1,14 @@
+C:\Source\Arwen-Source\UTCT-Tools\Epoch\obj\Debug\net8.0\Epoch.GeneratedMSBuildEditorConfig.editorconfig
+C:\Source\Arwen-Source\UTCT-Tools\Epoch\obj\Debug\net8.0\Epoch.AssemblyInfoInputs.cache
+C:\Source\Arwen-Source\UTCT-Tools\Epoch\obj\Debug\net8.0\Epoch.AssemblyInfo.cs
+C:\Source\Arwen-Source\UTCT-Tools\Epoch\obj\Debug\net8.0\Epoch.csproj.CoreCompileInputs.cache
+C:\Source\Arwen-Source\UTCT-Tools\Epoch\bin\Debug\net8.0\Epoch.exe
+C:\Source\Arwen-Source\UTCT-Tools\Epoch\bin\Debug\net8.0\Epoch.deps.json
+C:\Source\Arwen-Source\UTCT-Tools\Epoch\bin\Debug\net8.0\Epoch.runtimeconfig.json
+C:\Source\Arwen-Source\UTCT-Tools\Epoch\bin\Debug\net8.0\Epoch.dll
+C:\Source\Arwen-Source\UTCT-Tools\Epoch\bin\Debug\net8.0\Epoch.pdb
+C:\Source\Arwen-Source\UTCT-Tools\Epoch\obj\Debug\net8.0\Epoch.dll
+C:\Source\Arwen-Source\UTCT-Tools\Epoch\obj\Debug\net8.0\refint\Epoch.dll
+C:\Source\Arwen-Source\UTCT-Tools\Epoch\obj\Debug\net8.0\Epoch.pdb
+C:\Source\Arwen-Source\UTCT-Tools\Epoch\obj\Debug\net8.0\Epoch.genruntimeconfig.cache
+C:\Source\Arwen-Source\UTCT-Tools\Epoch\obj\Debug\net8.0\ref\Epoch.dll
